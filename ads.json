@@ -1,32 +1,11 @@
 [
   {
-    "id": "mcq_upsc",
-    "title": "MCQ UPSC Platform",
-    "tagline": "Master UPSC Prelims with 50,000+ curated questions & real-time analytics.",
-    "ctaText": "Practice Now",
-    "targetUrl": "https://mcqupsc.in",
-    "gradient": "from-amber-600 via-orange-600 to-red-700",
-    "icon": "📚",
-    "badge": "Recommended"
-  },
-  {
-    "id": "law_pge",
-    "title": "LawPGE Legal Hub",
-    "tagline": "Comprehensive legal study tools, statute references, and judicial exam prep.",
-    "ctaText": "Explore Modules",
-    "targetUrl": "https://lawpge.com",
-    "gradient": "from-indigo-700 via-purple-700 to-slate-900",
-    "icon": "⚖️",
-    "badge": "Legal Suite"
-  },
-  {
-    "id": "jbrowser_android",
-    "title": "JBrowser for Android",
-    "tagline": "Fast, private, and lightweight Chromium-based browsing with built-in tools.",
-    "ctaText": "Download APK",
-    "targetUrl": "https://yourdomain.com/jbrowser.apk",
-    "gradient": "from-teal-600 via-emerald-700 to-cyan-800",
-    "icon": "🚀",
-    "badge": "Native App"
+    "title": "MCQ UPSC - Complete Civil Services Prep",
+    "tagline": "Master UPSC Prelims & Mains with AI-driven test series and instant performance analytics.",
+    "badge": "Featured Partner",
+    "icon": "🎓",
+    "videoUrl": "https://raw.githubusercontent.com/vishnuaniljb-ai/PaperForge/main/ads.json",
+    "linkUrl": "https://mcqupsc.in",
+    "videoBg": "from-indigo-600 via-purple-700 to-pink-800"
   }
 ]
