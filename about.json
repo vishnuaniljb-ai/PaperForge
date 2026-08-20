@@ -1,0 +1,15 @@
+{
+  "version": "1.0.6",
+  "releaseDate": "2026-08-20",
+  "announcement": "Welcome to PaperForge Pro! 100% offline, privacy-first PDF workstation with zero telemetry.",
+  "changelog": [
+    "Watermark Color Picker (Crimson, Slate, Blue, Gold, Emerald, Black & Custom Hex) with live preview",
+    "Direct Inline Text Editing & Double-Click Modifier on vector text objects",
+    "About PaperForge Hub with remote GitHub announcements & offline cache",
+    "6-Hour Rewarded Ad Pro Pass with live dynamic ads pool from GitHub",
+    "Universal Undo/Redo Timeline & Progress Checkpoints Engine",
+    "Staged Visual Page Organizer with live rotation previews",
+    "Local Offline OCR with Indian Languages (Hindi, Tamil, Telugu, Malayalam, Bengali, etc.)",
+    "Microsoft Word (.docx) OpenXML authentic exporter"
+  ]
+}
