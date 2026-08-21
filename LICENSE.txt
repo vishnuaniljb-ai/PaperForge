@@ -1,0 +1,35 @@
+PROPRIETARY AND CONFIDENTIAL SOFTWARE LICENSE AGREEMENT
+=========================================================
+
+Copyright (c) 2026 PaperForge Inc. All Rights Reserved.
+
+IMPORTANT: PLEASE READ CAREFULLY. THIS SOFTWARE CONTAINS PROPRIETARY, 
+CONFIDENTIAL, AND TRADE SECRET INFORMATION OF PAPERFORGE INC.
+
+1. PROPRIETARY RIGHTS & OWNERSHIP
+---------------------------------
+This software, source code, user interface designs, assets, documentation, 
+and all related intellectual property ('Software') are the exclusive, 
+sole property of PaperForge Inc. and its licensors. 
+
+2. STRICT PROHIBITION ON COPYING & REDISTRIBUTION
+-------------------------------------------------
+No part of this Software may be reproduced, copied, distributed, published, 
+sublicensed, leased, sold, broadcast, streamed, or made available to third 
+parties in any form or by any means, electronic or mechanical, without 
+explicit prior written authorization from PaperForge Inc.
+
+3. STRICT PROHIBITION ON MODIFICATION & REVERSE ENGINEERING
+-----------------------------------------------------------
+You may NOT modify, adapt, translate, create derivative works of, decompile, 
+disassemble, reverse engineer, or attempt to reconstruct or discover the 
+underlying source code, structure, algorithms, or protocols of this Software.
+
+4. COMMERCIAL USE & LICENSING
+-----------------------------
+Usage of this Software is governed strictly by the PaperForge Terms of 
+Service and commercial licensing tiers. 
+
+=========================================================
+PAPERFORGE INC. - ALL RIGHTS RESERVED
+=========================================================
