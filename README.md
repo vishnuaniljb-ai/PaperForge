@@ -3,16 +3,16 @@
 <div align="center">
   <img src="logo.svg" width="140" height="140" alt="PaperForge Logo" />
   <h3>The Craft of the Page. Unleashed.</h3>
-  <p>A blazingly fast, privacy-first, 100% offline desktop PDF suite with full Adobe Acrobat Pro DC feature parity — zero subscription lock-in.</p>
+  <p>A blazingly fast, privacy-first, 100% offline desktop PDF suite with full Premium Suite feature parity — zero subscription lock-in.</p>
 </div>
 
 ---
 
 ## ⚡ Why PaperForge?
 
-| Metric / Capability | Adobe Acrobat Pro DC | PaperForge |
+| Metric / Capability | Other Premium Suite | PaperForge |
 | :--- | :--- | :--- |
-| **Pricing & Monetization** | $240+/year forced subscription | **100% Free** (Unlocked via optional Rewarded Sponsor Ads) |
+| **Pricing & Monetization** | $240+/year forced subscription | Rs. 3,440/yr (Free version Unlocked via optional Rewarded Sponsor Ads) |
 | **System Footprint (RAM)** | 500MB – 1.2GB RAM + background daemons | **30MB – 70MB RAM**, 0 background services |
 | **Startup Time** | 4 – 10 seconds | **< 200 ms instant startup** |
 | **Rendering Performance** | Prone to lag & stutter on large files | **120Hz GPU-accelerated virtualized tile rendering** |
