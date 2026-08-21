@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-08-21T00:00:00Z",
+  "defaultModel": "gemini-3.5-flash-lite",
+  "models": [
+    {
+      "id": "gemini-3.5-flash-lite",
+      "name": "Gemini 3.5 Flash Lite (Recommended)",
+      "recommended": true,
+      "rpm": 15,
+      "tpm": 250000,
+      "rpd": 500,
+      "contextWindow": "1,048,576 tokens",
+      "description": "Ultra-fast, cost-effective multimodal intelligence for executive summarization."
+    },
+    {
+      "id": "gemini-3.1-flash-lite",
+      "name": "Gemini 3.1 Flash Lite",
+      "recommended": false,
+      "rpm": 15,
+      "tpm": 250000,
+      "rpd": 500,
+      "contextWindow": "1,048,576 tokens",
+      "description": "Lightweight reasoning model with low latency and balanced quotas."
+    }
+  ]
+}
